@@ -1,8 +1,9 @@
 {
-  "version": "1.0.9",
-  "firmware": "https://raw.githubusercontent.com/adfo0/OTA/ff35fd29a1479735e813446282dd8478efb789d3/SICCA_GITHUB_OTA_V2.ino.bin",  
+  "version": "1.10.0",
+  "firmware": "https://raw.githubusercontent.com/adfo0/OTA/219172aefd4cd942c93fae0e83727ea693e62cbf/SICCA_GITHUB_OTA_V2.ino.bin",    
   "md5": ""
 }
+
 
 
 
